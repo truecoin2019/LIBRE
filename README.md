@@ -3,8 +3,7 @@ LIBRE integration/staging tree
 
 http://www.libre.org
 
-Copyright (c) 2009-2013 Bitcoin Developers
-Copyright (c) 2011-2013 Litecoin Developers
+Copyright (c) 2019 LIBRE Developers
 
 What is LIBRE?
 ----------------
